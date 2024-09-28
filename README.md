@@ -68,7 +68,7 @@ We welcome contributions to improve the recommendation algorithm, expand the mov
 
 
 ## Authors
-- Sakib Rokoni - 23273004
+- Sakib Rokoni - 24366051
 - Utsho Dey - 24366019
 - Niloy Sarkar - 21201638
 
